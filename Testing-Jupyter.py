@@ -1,15 +1,15 @@
 
 # coding: utf-8
 
-# In[2]:
+# In[1]:
 
 
 import cx_Oracle
 import params
 
 
-# In[3]:
+# In[2]:
 
 
-
+print(params.password)
 
